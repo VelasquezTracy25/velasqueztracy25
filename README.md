@@ -1,6 +1,6 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a fresh grad from Codeup, a 22 week career accelerator program. While I've studied in a full stack program, I am in love with backend development, as I find it the most exciting and fulfilling. I would love to connect to share our tips and tricks with each other!
+I'm a fresh grad from Codeup, a 22 week career accelerator program. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share our tips and tricks with each other!
 
 I'm currently:
 - 🔭 working on an ecommerce application.
