@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola, I'm Tracy!👋
+
+I'm a fresh grad from Codeup, a 22 week career accelerator program. While I've studied in a full srack program, I am in love with backend development as i find it the most exciting and fulfilling. I would love to connect to share our tips and tricks with each other!
+
+I'm currently:
+- 🔭 working on an ecommerce application.
+- 🌱 sharpening my Java and Python skills.
+- 👯 looking to collaborate on backend development.
+
+How to reach me:
+- 📫 Email: VelasquezTracy25@gmail.com
+- 🤝 LinkedIn: https://www.linkedin.com/in/tracy-velasquez/
+
+Fun Stuff:
+- 😄 Pronouns: She/Her
+- 📺 Watching: The Queen's Gambit on Netflix
+- ⚡ Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
 <!--
 **VelasquezTracy25/velasqueztracy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
