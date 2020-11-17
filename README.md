@@ -1,6 +1,6 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a fresh grad from Codeup, a 22 week career accelerator program. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share our tips and tricks with each other!
+I'm a fresh grad from Codeup, a 22 week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
 
 I'm currently:
 - 🔭 working on an ecommerce application.
@@ -8,7 +8,7 @@ I'm currently:
 - 👯 looking to collaborate on backend development.
 
 How to reach me:
-- 📫 Email: VelasquezTracy25@gmail.com
+- 📫 Email: velasqueztracy25@gmail.com
 - 🤝 LinkedIn: https://www.linkedin.com/in/tracy-velasquez/
 
 Fun Stuff:
