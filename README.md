@@ -3,9 +3,9 @@
 I'm a fresh grad from Codeup, a 22-week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
 
 I'm currently:
-- 🔭 working on a P2P ecommerce application.
-- 🌱 sharpening my Java and Python skills.
-- 👯 looking to collaborate on backend development.
+- 🔭 working on a PHP site for my author friend.
+- 🌱 sharpening my Java, Python and Frontend skills.
+- 👯 looking to collaborate on frontend development.
 
 How to reach me:
 - 📫 Email: velasqueztracy25@gmail.com
@@ -13,7 +13,7 @@ How to reach me:
 
 Fun Stuff:
 - 😄 Pronouns: She/Her
-- 📺 Watching: The Queen's Gambit on Netflix
+- 📺 Watching: Modern Family on Hulu
 - ⚡ Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
 <!--
