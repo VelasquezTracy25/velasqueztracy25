@@ -3,7 +3,7 @@
 I'm a fresh grad from Codeup, a 22-week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
 
 I'm currently:
-- 🔭 working on a PHP site for my author friend.
+- 🔭 working on an ecommerce site.
 - 🌱 sharpening my Java, Python and Frontend skills.
 - 👯 looking to collaborate on frontend development.
 
