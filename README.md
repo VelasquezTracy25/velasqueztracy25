@@ -14,7 +14,9 @@ How to reach me:
 Fun Stuff:
 - 😄  Pronouns: She/Her
 - 📺  Watching: Modern Family on Hulu
-- 📖  Reading: Moonwaking with Einstein
+- 📖  Reading: 
+   - Moonwaking with Einstein by Joshua Foer
+   - Bookclub book: Contact by Carl Sagan
 - ⚡  Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
 <!--
