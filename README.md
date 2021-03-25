@@ -13,7 +13,7 @@ How to reach me:
 
 Fun Stuff:
 - 😄  Pronouns: She/Her
-- 📺  Watching: The MCU series in chronological order (because I can't remember the plot to any of the movies anymore lol) 
+- 📺  Watching: The MCU films in chronological order (because I can't remember the plot to any of the movies anymore lol) 
 - 📖  Reading: 
    - Moonwalking with Einstein by Joshua Foer
    - Book club book: Contact by Carl Sagan
