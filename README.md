@@ -15,7 +15,7 @@ Fun Stuff:
 - 😄  Pronouns: She/Her
 - 📺  Watching: The MCU films in chronological order (because I can't remember the plot to any of the movies anymore lol) 
 - 📖  Reading: 
-   - Moonwalking with Einstein by Joshua Foer
+   - Moonwalking with Einstein by Joshua Foer and Eat That Frog! by Brian Tracy
    - Book club book: Contact by Carl Sagan
 - ⚡  Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
