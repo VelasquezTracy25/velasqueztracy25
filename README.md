@@ -4,7 +4,7 @@ I'm a fresh grad from Codeup, a 22-week career accelerator program in Texas. I a
 
 I'm currently:
 - 🔭  working on an ecommerce site.
-- 🌱  sharpening my Java, Python and PHP skills.
+- 🌱  sharpening my Java and soft skills.
 - 👯  looking to collaborate on frontend development.
 
 How to reach me:
