@@ -1,11 +1,11 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a fresh grad from Codeup, a 22-week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
+I'm a grad from Codeup, a 22-week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
 
 I'm currently:
-- 🔭  working on an ecommerce site.
-- 🌱  sharpening my Java and soft skills.
-- 👯  looking to collaborate on frontend development.
+- 🔭  working on a puzzle game
+- 🌱  sharpening my Java and soft skills
+- 👯  looking to collaborate on frontend development and local projects
 
 How to reach me:
 - 📫  Email: velasqueztracy25@gmail.com
@@ -13,9 +13,9 @@ How to reach me:
 
 Fun Stuff:
 - 😄  Pronouns: She/Her
-- 📺  Watching: The MCU films in chronological order (because I can't remember the plot to any of the movies anymore lol) 
+- 📺  Watching: Invincible on Prime Video
 - 📖  Reading: 
-   - Moonwalking with Einstein by Joshua Foer and Eat That Frog! by Brian Tracy
+   - The Age of Agile by Stephen Denning
    - Book club book: Contact by Carl Sagan
 - ⚡  Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
