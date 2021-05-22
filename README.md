@@ -1,10 +1,10 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a grad from Codeup, a 22-week career accelerator program in Texas. I am in love with backend development, but like to use my creativity and work on front-end for personal projects. I would love to connect to share tips and tricks with each other!
+I'm a grad from Codeup, a 22-week career accelerator program in Texas. I like to use my creativity and problem-solving skills to work on front-end projects. I would love to connect to share tips and tricks with each other!
 
 I'm currently:
 - 🔭  working on a puzzle game
-- 🌱  sharpening my Java and soft skills
+- 🌱  sharpening my frontend skills
 - 👯  looking to collaborate on frontend development and local projects
 
 How to reach me:
