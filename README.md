@@ -4,15 +4,14 @@ I'm a grad from Codeup, a 22-week career accelerator program in Texas. I like to
 
 I'm currently:
 - 🔭  working on a puzzle game
-- 🌱  sharpening my frontend skills
-- 👯  looking to collaborate on frontend development and local projects
+- 🌱  sharpening my Python skills
+- 👯  looking to collaborate on machine learning projects
 
 How to reach me:
 - 📫  Email: velasqueztracy25@gmail.com
 - 🤝  LinkedIn: https://www.linkedin.com/in/tracy-velasquez/
 
 Fun Stuff:
-- 😄  Pronouns: She/Her
 - 📺  Watching: Invincible on Prime Video
 - 📖  Reading: 
    - The Age of Agile by Stephen Denning
