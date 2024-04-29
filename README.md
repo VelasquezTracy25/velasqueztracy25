@@ -1,6 +1,8 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a grad from Codeup, a 22-week career accelerator program in Texas. I like to use my creativity and problem-solving skills to work on front-end projects. I would love to connect to share tips and tricks with each other!
+I'm a software devloper in San Antonio,  Texass. I like to use my creativity and problem-solving skills to work on front-end projects. 
+
+I would love to connect to share tips and tricks!
 
 I'm currently:
 - 🔭  working on a puzzle game
@@ -12,7 +14,7 @@ How to reach me:
 - 🤝  LinkedIn: https://www.linkedin.com/in/tracy-velasquez/
 
 Fun Stuff:
-- 📺  Watching: Invincible on Prime Video
+- 📺  Watching: Invincible Season 2
 - 📖  Reading: 
    - The Age of Agile by Stephen Denning
    - Book club book: Contact by Carl Sagan
