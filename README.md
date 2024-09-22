@@ -1,24 +1,30 @@
 ### Hola, I'm Tracy! 👋
 
-I'm a software devloper in San Antonio,  Texass. I like to use my creativity and problem-solving skills to work on front-end projects. 
+I'm a web developer based in San Antonio, Texas. I enjoy combining creativity with problem-solving to build engaging front-end projects. My experience spans across various technologies, and I’m always eager to learn new tools and techniques.
 
 I would love to connect to share tips and tricks!
 
 I'm currently:
-- 🔭  working on a puzzle game
-- 🌱  sharpening my Python skills
-- 👯  looking to collaborate on machine learning projects
+- 🔭  working on website for a national book publisher
+- 🌱  sharpening my Next.js skills for frontend projects
+- 👯  looking to collaborate on fun and interesting porjects
 
 How to reach me:
 - 📫  Email: velasqueztracy25@gmail.com
 - 🤝  LinkedIn: https://www.linkedin.com/in/tracy-velasquez/
 
 Fun Stuff:
-- 📺  Watching: Invincible Season 2
+- 📺  Watching: House of the Dragon
 - 📖  Reading: 
    - The Age of Agile by Stephen Denning
-   - Book club book: Contact by Carl Sagan
+   - Book club book: Never Whistle at Night by Various Authors
 - ⚡  Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
+
+Technologies I work with:
+Languages: JavaScript, HTML5, CSS3, Python
+Frameworks: Next.js, Tailwind CSS, Faust.js
+CMS & Tools: WordPress, Elementor, ExpressionEngine
+Design Tools: Figma, Adobe XD, Photoshop, Illustrator
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
