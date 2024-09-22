@@ -21,10 +21,10 @@ Fun Stuff:
 - ⚡  Fun fact: I love to sew, grow plants, and solve puzzles - all great hobbies to teach you patience, problem-solving and learning from your mistakes 🤓
 
 Technologies I work with:
-Languages: JavaScript, HTML5, CSS3, Python
-Frameworks: Next.js, Tailwind CSS, Faust.js
-CMS & Tools: WordPress, Elementor, ExpressionEngine
-Design Tools: Figma, Adobe XD, Photoshop, Illustrator
+- Languages: JavaScript, HTML5, CSS3, Python
+- Frameworks: Next.js, Tailwind CSS, Faust.js
+- CMS & Tools: WordPress, Elementor, ExpressionEngine
+- Design Tools: Figma, Adobe XD, Photoshop, Illustrator
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
