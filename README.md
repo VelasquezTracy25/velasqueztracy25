@@ -7,7 +7,7 @@ I would love to connect to share tips and tricks!
 I'm currently:
 - 🔭  working on website for a national book publisher
 - 🌱  sharpening my Next.js skills for frontend projects
-- 👯  looking to collaborate on fun and interesting porjects
+- 👯  looking to collaborate on fun and interesting projects
 
 How to reach me:
 - 📫  Email: velasqueztracy25@gmail.com
